@@ -58,18 +58,6 @@ header {
     height: auto;
     cursor: pointer;
 }
-
-/* =========================
-   INICIO / BANNER
-   ========================= */
-
-.banner {
-    width: 100%;
-    height: calc(100vh - 90px);
-    object-fit: cover;
-    display: block;
-}
-
 /* =========================
    CONTENEDORES
    ========================= */
